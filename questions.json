@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Wie viele Aufgaben hat ein Betriebssystem?",
+    "answers": ["5", "fünf"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Ein Betriebssystem hat fünf Hauptaufgaben: Abstraktionsschicht, Speicherverwaltung, Prozessverwaltung, Geräte- und Dateiverwaltung sowie Rechteverwaltung."
+  },
+
+  {
+    "question": "Nenne alle Aufgaben eines Betriebssystems.",
+    "answers": [
+      "abstraktionsschicht",
+      "speicherverwaltung",
+      "prozessverwaltung",
+      "geräte und dateiverwaltung",
+      "rechteverwaltung"
+    ],
+    "type": "list",
+    "requiredKeywords": 5,
+    "explanation": "Die fünf Aufgaben sind: Abstraktionsschicht, Speicherverwaltung, Prozessverwaltung, Geräte- und Dateiverwaltung sowie Rechteverwaltung."
+  },
+
+  {
+    "question": "Beschreibe die Abstraktionsschicht.",
+    "answers": ["vereinfacht", "hardware", "details", "verborgen"],
+    "type": "long",
+    "requiredKeywords": 3,
+    "explanation": "Die Abstraktionsschicht vereinfacht den Zugriff auf Hardware, indem technische Details verborgen werden."
+  },
+
+  {
+    "question": "Beschreibe die Speicherverwaltung.",
+    "answers": ["speicher", "zuweisung", "überwachung", "programme"],
+    "type": "long",
+    "requiredKeywords": 3,
+    "explanation": "Die Speicherverwaltung weist Programmen Speicher zu und überwacht dessen Nutzung."
+  },
+
+  {
+    "question": "Beschreibe die Prozessverwaltung.",
+    "answers": ["prozesse", "koordination", "ausführung", "multitasking"],
+    "type": "long",
+    "requiredKeywords": 3,
+    "explanation": "Die Prozessverwaltung steuert und koordiniert Prozesse für effizientes Multitasking."
+  },
+
+  {
+    "question": "Beschreibe die Geräte- und Dateiverwaltung.",
+    "answers": ["hardware", "dateien", "zugriff", "organisation"],
+    "type": "long",
+    "requiredKeywords": 2,
+    "explanation": "Die Geräte- und Dateiverwaltung stellt Zugriff auf Hardware bereit und organisiert Daten in Dateien."
+  },
+
+  {
+    "question": "Beschreibe die Rechteverwaltung.",
+    "answers": ["benutzer", "rechte", "zugriff", "schutz"],
+    "type": "long",
+    "requiredKeywords": 2,
+    "explanation": "Die Rechteverwaltung regelt Benutzerzugriffe und schützt Ressourcen durch Berechtigungen."
+  },
+
+  {
+    "question": "Was vereinfacht den Zugriff auf Hardware durch Abstraktion?",
+    "answers": ["abstraktionsschicht", "abstraktion"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Abstraktionsschicht versteckt technische Details und vereinfacht die Nutzung der Hardware."
+  },
+
+  {
+    "question": "Was verwaltet Arbeitsspeicher und dessen Zuweisung?",
+    "answers": ["speicherverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Speicherverwaltung sorgt für die Zuweisung und Kontrolle des Arbeitsspeichers."
+  },
+
+  {
+    "question": "Was steuert die Ausführung von Programmen?",
+    "answers": ["prozessverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Prozessverwaltung steuert die Ausführung und Koordination von Programmen."
+  },
+
+  {
+    "question": "Was stellt Zugriff auf Hardware und Dateien bereit?",
+    "answers": ["geräte und dateiverwaltung", "geraete und dateiverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Geräte- und Dateiverwaltung stellt Zugriff auf Hardware und organisiert Dateien."
+  },
+
+  {
+    "question": "Was regelt Benutzerrechte und Zugriffssteuerung?",
+    "answers": ["rechteverwaltung", "benutzerverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Rechteverwaltung steuert Benutzerzugriffe und schützt Systemressourcen."
+  },
+
+  {
+    "question": "Welche Aufgabe sorgt für Multitasking?",
+    "answers": ["prozessverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Prozessverwaltung ermöglicht das gleichzeitige Ausführen mehrerer Programme."
+  },
+
+  {
+    "question": "Welche Aufgabe schützt das System durch Benutzerrechte?",
+    "answers": ["rechteverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Rechteverwaltung schützt das System durch Zugriffsrechte."
+  },
+
+  {
+    "question": "Welche Aufgabe organisiert Dateien?",
+    "answers": ["geräte und dateiverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Dateiverwaltung organisiert Daten in Dateien und Verzeichnissen."
+  },
+
+  {
+    "question": "Welche Aufgabe verwaltet Hardwarezugriffe?",
+    "answers": ["geräte und dateiverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Geräteverwaltung steuert den Zugriff auf Hardwaregeräte."
+  },
+
+  {
+    "question": "Welche Aufgabe verteilt Rechenzeit an Programme?",
+    "answers": ["prozessverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Prozessverwaltung verteilt CPU-Zeit an laufende Programme."
+  },
+
+  {
+    "question": "Welche Aufgabe überwacht Speicher?",
+    "answers": ["speicherverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Speicherverwaltung überwacht und kontrolliert die Speichernutzung."
+  },
+
+  {
+    "question": "Welche Aufgabe sorgt für eine vereinfachte Sicht auf Hardware?",
+    "answers": ["abstraktionsschicht"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Abstraktionsschicht sorgt für eine vereinfachte Darstellung der Hardware."
+  },
+
+  {
+    "question": "Welche Aufgabe kombiniert Datei- und Hardwarezugriff?",
+    "answers": ["geräte und dateiverwaltung"],
+    "type": "short",
+    "requiredKeywords": 1,
+    "explanation": "Die Geräte- und Dateiverwaltung verbindet Hardwarezugriff und Dateiorganisation."
+  }
+]
